@@ -1,0 +1,14 @@
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Domain\bin\Debug\netcoreapp3.1\ShopManagement.Domain.deps.json
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Domain\bin\Debug\netcoreapp3.1\ShopManagement.Domain.dll
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Domain\bin\Debug\netcoreapp3.1\ShopManagement.Domain.pdb
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Domain\bin\Debug\netcoreapp3.1\0_Framework.dll
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Domain\bin\Debug\netcoreapp3.1\ShopManagement.Application.Contracts.dll
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Domain\bin\Debug\netcoreapp3.1\0_Framework.pdb
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Domain\bin\Debug\netcoreapp3.1\ShopManagement.Application.Contracts.pdb
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Domain\obj\Debug\netcoreapp3.1\ShopManagement.Domain.csprojAssemblyReference.cache
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Domain\obj\Debug\netcoreapp3.1\ShopManagement.Domain.AssemblyInfoInputs.cache
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Domain\obj\Debug\netcoreapp3.1\ShopManagement.Domain.AssemblyInfo.cs
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Domain\obj\Debug\netcoreapp3.1\ShopManagement.Domain.csproj.CoreCompileInputs.cache
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Domain\obj\Debug\netcoreapp3.1\ShopManagement.Domain.csproj.CopyComplete
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Domain\obj\Debug\netcoreapp3.1\ShopManagement.Domain.dll
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Domain\obj\Debug\netcoreapp3.1\ShopManagement.Domain.pdb
