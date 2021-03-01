@@ -1999,6 +1999,20 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "01_KhayatibanargesQuery/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.2",
+          "ShopManagement.Infrastructure.EFCore": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/01_KhayatibanargesQuery.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/01_KhayatibanargesQuery.dll": {}
+        }
+      },
       "0_Framework/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -2043,6 +2057,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "01_KhayatibanargesQuery": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.3",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "5.0.0",
@@ -7139,6 +7154,11 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "01_KhayatibanargesQuery/1.0.0": {
+      "type": "project",
+      "path": "../01_KhayatibanargesQuery/01_KhayatibanargesQuery.csproj",
+      "msbuildProject": "../01_KhayatibanargesQuery/01_KhayatibanargesQuery.csproj"
+    },
     "0_Framework/1.0.0": {
       "type": "project",
       "path": "../0_Framework/0_Framework.csproj",
@@ -7172,6 +7192,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "01_KhayatibanargesQuery >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.3",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 5.0.2",
       "ShopManagement.Configuration >= 1.0.0"
@@ -7211,6 +7232,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "D:\\programing\\prac\\real prac\\Code\\khayatibanarges\\01_KhayatibanargesQuery\\01_KhayatibanargesQuery.csproj": {
+              "projectPath": "D:\\programing\\prac\\real prac\\Code\\khayatibanarges\\01_KhayatibanargesQuery\\01_KhayatibanargesQuery.csproj"
+            },
             "D:\\programing\\prac\\real prac\\Code\\khayatibanarges\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj": {
               "projectPath": "D:\\programing\\prac\\real prac\\Code\\khayatibanarges\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj"
             }
