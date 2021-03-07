@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using _0_Framework.Application;
 using _0_Framework.Infrastructure;
 using ShopManagement.Application.Contracts.ProductCategory;
 using ShopManagement.Domain.ProductCategoryAgg;
@@ -30,6 +31,7 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
             return _context.ProductCategories.Select(x => new EditProductCategory()
             {
                 Id = x.Id,
+                Name = x.Name,
                 Description = x.Description,
                 Picture = x.Picture,
                 PictureAlt = x.PictureAlt,
@@ -46,7 +48,7 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
                 Id = x.Id,
                 Name = x.Name,
                 Picture = x.Picture,
-                CreationDate = x.CreationDate.ToString()
+                CreationDate = x.CreationDate.ToFarsi()
             });
             if (!string.IsNullOrWhiteSpace(searchModel.Name))
                 query = query.Where(x => x.Name.Contains(searchModel.Name));
