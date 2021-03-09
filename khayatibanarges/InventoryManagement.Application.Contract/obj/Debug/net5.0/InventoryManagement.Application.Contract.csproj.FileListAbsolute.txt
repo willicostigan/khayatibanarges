@@ -1,0 +1,15 @@
+D:\programing\prac\real prac\Code\khayatibanarges\InventoryManagement.Application.Contract\bin\Debug\net5.0\InventoryManagement.Application.Contract.deps.json
+D:\programing\prac\real prac\Code\khayatibanarges\InventoryManagement.Application.Contract\bin\Debug\net5.0\InventoryManagement.Application.Contract.dll
+D:\programing\prac\real prac\Code\khayatibanarges\InventoryManagement.Application.Contract\bin\Debug\net5.0\ref\InventoryManagement.Application.Contract.dll
+D:\programing\prac\real prac\Code\khayatibanarges\InventoryManagement.Application.Contract\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
+D:\programing\prac\real prac\Code\khayatibanarges\InventoryManagement.Application.Contract\bin\Debug\net5.0\0_Framework.dll
+D:\programing\prac\real prac\Code\khayatibanarges\InventoryManagement.Application.Contract\bin\Debug\net5.0\0_Framework.pdb
+D:\programing\prac\real prac\Code\khayatibanarges\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.csprojAssemblyReference.cache
+D:\programing\prac\real prac\Code\khayatibanarges\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing\prac\real prac\Code\khayatibanarges\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.AssemblyInfoInputs.cache
+D:\programing\prac\real prac\Code\khayatibanarges\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.AssemblyInfo.cs
+D:\programing\prac\real prac\Code\khayatibanarges\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.csproj.CoreCompileInputs.cache
+D:\programing\prac\real prac\Code\khayatibanarges\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.csproj.CopyComplete
+D:\programing\prac\real prac\Code\khayatibanarges\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.dll
+D:\programing\prac\real prac\Code\khayatibanarges\InventoryManagement.Application.Contract\obj\Debug\net5.0\ref\InventoryManagement.Application.Contract.dll
+D:\programing\prac\real prac\Code\khayatibanarges\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.pdb

@@ -1,14 +1,10 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using DiscountManagement.Configuration;
+using InventoryManagement.Infrastructure.Configuration;
 using ShopManagement.Configuration;
 
 namespace ServiceHost
@@ -27,7 +23,8 @@ namespace ServiceHost
         {
             var connectionString = Configuration.GetConnectionString("khayatibanargesDb");
             ShopManagementBootstraper.Configure(services, connectionString);
-            DiscountManagementBootstrapper.Configure(services,connectionString);
+            DiscountManagementBootstrapper.Configure(services, connectionString);
+            InventoryManagementBootstrapper.Configure(services, connectionString);
             services.AddRazorPages();
         }
 
@@ -52,10 +49,7 @@ namespace ServiceHost
 
             app.UseAuthorization();
 
-            app.UseEndpoints(endpoints =>
-            {
-                endpoints.MapRazorPages();
-            });
+            app.UseEndpoints(endpoints => { endpoints.MapRazorPages(); });
         }
     }
 }
