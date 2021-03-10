@@ -15,3 +15,5 @@ D:\programing\prac\real prac\Code\khayatibanarges\InventoryManagement.Domain\obj
 D:\programing\prac\real prac\Code\khayatibanarges\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.dll
 D:\programing\prac\real prac\Code\khayatibanarges\InventoryManagement.Domain\obj\Debug\net5.0\ref\InventoryManagement.Domain.dll
 D:\programing\prac\real prac\Code\khayatibanarges\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.pdb
+D:\programing\prac\real prac\Code\khayatibanarges\InventoryManagement.Domain\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+D:\programing\prac\real prac\Code\khayatibanarges\InventoryManagement.Domain\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb

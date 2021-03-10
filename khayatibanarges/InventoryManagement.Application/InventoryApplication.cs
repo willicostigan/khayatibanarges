@@ -1,9 +1,7 @@
 ﻿using System.Collections.Generic;
-using System.Runtime.InteropServices;
 using _0_Framework.Application;
 using InventoryManagement.Application.Contract.Inventory;
 using InventoryManagement.Domain.InventoryAgg;
-using Microsoft.Extensions.Logging.Abstractions;
 
 namespace InventoryManagement.Application
 {
@@ -35,10 +33,10 @@ namespace InventoryManagement.Application
             if (inventory == null)
                 return operation.Failed(ApplicationMessages.RecordNotFound);
 
-            if (_inventoryRepository.Exists(x => x.ProductId == command.ProductId && x.Id != command.Id)) ;
-            return operation.Failed(ApplicationMessages.DuplicatedRecord);
+            if (_inventoryRepository.Exists(x => x.ProductId == command.ProductId && x.Id != command.Id))
+                return operation.Failed(ApplicationMessages.DuplicatedRecord);
 
-            inventory.Edit(command.ProductId,command.UnitPrice);
+            inventory.Edit(command.ProductId, command.UnitPrice);
             _inventoryRepository.SaveChanges();
             return operation.Succedded();
         }
@@ -88,6 +86,11 @@ namespace InventoryManagement.Application
         public List<InventoryViewModel> Search(InventorySearchModel searchModel)
         {
             return _inventoryRepository.Search(searchModel);
+        }
+
+        public List<InventoryOperationViewModel> GetOperationLog(long inventoryId)
+        {
+            return _inventoryRepository.GetOperationLog(inventoryId);
         }
     }
 }

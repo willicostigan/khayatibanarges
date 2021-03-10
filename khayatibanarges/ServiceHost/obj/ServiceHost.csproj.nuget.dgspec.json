@@ -530,6 +530,9 @@
             "projectReferences": {
               "D:\\programing\\prac\\real prac\\Code\\khayatibanarges\\0_Framework\\0_Framework.csproj": {
                 "projectPath": "D:\\programing\\prac\\real prac\\Code\\khayatibanarges\\0_Framework\\0_Framework.csproj"
+              },
+              "D:\\programing\\prac\\real prac\\Code\\khayatibanarges\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+                "projectPath": "D:\\programing\\prac\\real prac\\Code\\khayatibanarges\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
               }
             }
           }
