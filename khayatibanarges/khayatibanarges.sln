@@ -61,7 +61,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryManagement.Infrast
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryManagement.Infrastructure.Configuration", "InventoryManagement.Infrastructure.Configuration\InventoryManagement.Infrastructure.Configuration.csproj", "{F29DBC2F-461E-42AF-BFAB-23D0858EA072}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManagement.Application", "InventoryManagement.Application\InventoryManagement.Application.csproj", "{ECDCD64C-C70C-4BC6-A987-E3F7D889CA8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryManagement.Application", "InventoryManagement.Application\InventoryManagement.Application.csproj", "{ECDCD64C-C70C-4BC6-A987-E3F7D889CA8E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

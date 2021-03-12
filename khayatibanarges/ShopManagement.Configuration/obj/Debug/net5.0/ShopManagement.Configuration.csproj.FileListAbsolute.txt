@@ -26,3 +26,15 @@ D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\o
 D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.genruntimeconfig.cache
 D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\01_KhayatibanargesQuery.dll
 D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\01_KhayatibanargesQuery.pdb
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Application.Contract.dll
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Domain.dll
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.dll
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Application.Contract.dll
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Domain.dll
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.dll
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Application.Contract.pdb
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Domain.pdb
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.pdb
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Domain.pdb
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.pdb

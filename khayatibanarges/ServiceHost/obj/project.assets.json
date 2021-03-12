@@ -2003,7 +2003,9 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "5.0.2",
+          "DiscountManagement.Infrastructure.EFCore": "1.0.0",
+          "InventoryManagement.Infrastructure.EFCore": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "5.0.3",
           "ShopManagement.Infrastructure.EFCore": "1.0.0"
         },
         "compile": {

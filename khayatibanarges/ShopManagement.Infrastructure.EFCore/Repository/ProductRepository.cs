@@ -55,7 +55,6 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
                 CategoryId = x.CategoryId,
                 Code = x.Code,
                 Picture = x.Picture,
-
                 CreationDate = x.CreationDate.ToFarsi()
             });
             if (!string.IsNullOrWhiteSpace(searchModel.Name))

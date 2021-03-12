@@ -4,7 +4,6 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using ShopManagement.Application.Contracts.Product;
 using ShopManagement.Application.Contracts.ProductCategory;
 using System.Collections.Generic;
-using _0_Framework.Infrastructure;
 
 
 namespace ServiceHost.Areas.Administration.Pages.Shop.Products

@@ -33,6 +33,12 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+              "D:\\programing\\prac\\real prac\\Code\\khayatibanarges\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj": {
+                "projectPath": "D:\\programing\\prac\\real prac\\Code\\khayatibanarges\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj"
+              },
+              "D:\\programing\\prac\\real prac\\Code\\khayatibanarges\\InventoryManagement.Infrastructure.EFCore\\InventoryManagement.Infrastructure.EFCore.csproj": {
+                "projectPath": "D:\\programing\\prac\\real prac\\Code\\khayatibanarges\\InventoryManagement.Infrastructure.EFCore\\InventoryManagement.Infrastructure.EFCore.csproj"
+              },
               "D:\\programing\\prac\\real prac\\Code\\khayatibanarges\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
                 "projectPath": "D:\\programing\\prac\\real prac\\Code\\khayatibanarges\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj"
               }
@@ -51,7 +57,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.2, )"
+              "version": "[5.0.3, )"
             }
           },
           "imports": [
