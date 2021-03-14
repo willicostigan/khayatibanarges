@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Security.Cryptography.X509Certificates;
 using _0_Framework.Application;
 using _01_KhayatibanargesQuery.Contracts.Product;
 using _01_KhayatibanargesQuery.Contracts.ProductCategory;
@@ -37,7 +36,7 @@ namespace _01_KhayatibanargesQuery.Query
                 PictureTitle = x.PictureTitle,
                 PictureAlt = x.PictureAlt,
                 Slug = x.Slug
-            }).ToList();
+            }).AsNoTracking().ToList();
         }
 
         public List<ProductCategoryQueryModel> GetProductCategoriesWithProducts()
@@ -54,7 +53,7 @@ namespace _01_KhayatibanargesQuery.Query
                     Id = x.Id,
                     Name = x.Name,
                     Products = MapProducts(x.Products)
-                }).ToList();
+                }).AsNoTracking().ToList();
 
             foreach (var category in categories)
             {
@@ -103,7 +102,7 @@ namespace _01_KhayatibanargesQuery.Query
                 .Where(x => x.StartDate < DateTime.Now && x.EndDate > DateTime.Now)
                 .Select(x => new {x.DiscountRate, x.ProductId ,x.EndDate}).ToList();
             var category = _context.ProductCategories
-                .Include(a => a.Products)
+                .Include(x => x.Products)
                 .ThenInclude(x => x.Category)
                 .Select(x => new ProductCategoryQueryModel
                 {
@@ -114,7 +113,7 @@ namespace _01_KhayatibanargesQuery.Query
                     Keywords = x.Keywords,
                     Slug = x.Slug,
                     Products = MapProducts(x.Products)
-                }).FirstOrDefault(x => x.Slug == slug);
+                }).AsNoTracking().FirstOrDefault(x => x.Slug == slug);
 
 
             foreach (var product in category.Products)

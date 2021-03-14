@@ -213,3 +213,8 @@ D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\obj\Debug\net5.0\R
 D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\ProductCategoryWithProduct\Default.cshtml.g.cs
 D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\LatestArrivals\Default.cshtml.g.cs
 D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\obj\Debug\net5.0\Razor\Pages\ProductCategory.cshtml.g.cs
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\obj\Debug\net5.0\Razor\Pages\Search.cshtml.g.cs
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Footer\Default.cshtml.g.cs
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Menu\Default.cshtml.g.cs
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\obj\Debug\net5.0\Razor\Pages\Product.cshtml.g.cs
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Comments\Index.cshtml.g.cs
