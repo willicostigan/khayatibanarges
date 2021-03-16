@@ -26,3 +26,31 @@ D:\programing\prac\real prac\Code\khayatibanarges\InventoryManagement.Infrastruc
 D:\programing\prac\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\obj\Debug\net5.0\ref\InventoryManagement.Infrastructure.EFCore.dll
 D:\programing\prac\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\obj\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.pdb
 D:\programing\prac\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\obj\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.genruntimeconfig.cache
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.deps.json
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.runtimeconfig.json
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.runtimeconfig.dev.json
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\bin\Debug\net5.0\ref\InventoryManagement.Infrastructure.EFCore.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\bin\Debug\net5.0\0_Framework.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\bin\Debug\net5.0\InventoryManagement.Application.Contract.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\bin\Debug\net5.0\InventoryManagement.Domain.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Domain.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\bin\Debug\net5.0\InventoryManagement.Domain.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\bin\Debug\net5.0\0_Framework.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Domain.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\obj\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.csprojAssemblyReference.cache
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\obj\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\obj\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.AssemblyInfoInputs.cache
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\obj\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.AssemblyInfo.cs
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\obj\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\obj\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.csproj.CopyComplete
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\obj\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\obj\Debug\net5.0\ref\InventoryManagement.Infrastructure.EFCore.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\obj\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\InventoryManagement.Infrastructure.EFCore\obj\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.genruntimeconfig.cache

@@ -17,3 +17,22 @@ D:\programing\prac\real prac\Code\khayatibanarges\ShopManegement.Application\obj
 D:\programing\prac\real prac\Code\khayatibanarges\ShopManegement.Application\obj\Debug\net5.0\ShopManagement.Application.dll
 D:\programing\prac\real prac\Code\khayatibanarges\ShopManegement.Application\obj\Debug\net5.0\ref\ShopManagement.Application.dll
 D:\programing\prac\real prac\Code\khayatibanarges\ShopManegement.Application\obj\Debug\net5.0\ShopManagement.Application.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManegement.Application\bin\Debug\net5.0\ShopManagement.Application.deps.json
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManegement.Application\bin\Debug\net5.0\ShopManagement.Application.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManegement.Application\bin\Debug\net5.0\ref\ShopManagement.Application.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManegement.Application\bin\Debug\net5.0\ShopManagement.Application.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManegement.Application\bin\Debug\net5.0\0_Framework.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManegement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManegement.Application\bin\Debug\net5.0\ShopManagement.Domain.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManegement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManegement.Application\bin\Debug\net5.0\ShopManagement.Domain.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManegement.Application\bin\Debug\net5.0\0_Framework.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManegement.Application\obj\Debug\net5.0\ShopManagement.Application.csprojAssemblyReference.cache
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManegement.Application\obj\Debug\net5.0\ShopManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManegement.Application\obj\Debug\net5.0\ShopManagement.Application.AssemblyInfoInputs.cache
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManegement.Application\obj\Debug\net5.0\ShopManagement.Application.AssemblyInfo.cs
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManegement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManegement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.CopyComplete
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManegement.Application\obj\Debug\net5.0\ShopManagement.Application.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManegement.Application\obj\Debug\net5.0\ref\ShopManagement.Application.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManegement.Application\obj\Debug\net5.0\ShopManagement.Application.pdb

@@ -26,3 +26,31 @@ D:\programing\prac\real prac\Code\khayatibanarges\DiscountManagement.Infrastruct
 D:\programing\prac\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\obj\Debug\net5.0\ref\DiscountManagement.Infrastructure.EFCore.dll
 D:\programing\prac\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.pdb
 D:\programing\prac\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.genruntimeconfig.cache
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.deps.json
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.runtimeconfig.json
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.runtimeconfig.dev.json
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\ref\DiscountManagement.Infrastructure.EFCore.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\0_Framework.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\DiscountManagement.Application.Contract.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\DiscountManagement.Domain.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Domain.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\DiscountManagement.Domain.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\0_Framework.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\DiscountManagement.Application.Contract.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Domain.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.csprojAssemblyReference.cache
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.AssemblyInfoInputs.cache
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.AssemblyInfo.cs
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.csproj.CopyComplete
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\obj\Debug\net5.0\ref\DiscountManagement.Infrastructure.EFCore.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Infrastructure.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.genruntimeconfig.cache

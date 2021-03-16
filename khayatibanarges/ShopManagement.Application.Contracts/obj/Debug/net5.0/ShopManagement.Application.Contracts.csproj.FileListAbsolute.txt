@@ -13,3 +13,18 @@ D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Application.Con
 D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.dll
 D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Application.Contracts\obj\Debug\net5.0\ref\ShopManagement.Application.Contracts.dll
 D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Application.Contracts\bin\Debug\net5.0\ShopManagement.Application.Contracts.deps.json
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Application.Contracts\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Application.Contracts\bin\Debug\net5.0\ref\ShopManagement.Application.Contracts.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Application.Contracts\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Application.Contracts\bin\Debug\net5.0\0_Framework.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Application.Contracts\bin\Debug\net5.0\0_Framework.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.csprojAssemblyReference.cache
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.AssemblyInfoInputs.cache
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.AssemblyInfo.cs
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.csproj.CopyComplete
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Application.Contracts\obj\Debug\net5.0\ref\ShopManagement.Application.Contracts.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.pdb

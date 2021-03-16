@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xpYkJoaLGFim5c0C9c2Hy7BbHo+o0ekD4joPUBrCscNuVLSMHcxMrL+tnYtWA1yYZ5saDSWLUeWmXue5+G7SyA==",
+  "dgSpecHash": "hxOF8+Lc27julA05vphmmu2xKXFisjCOznybJH7g7eOxOzQkYGy5MfP53vs+WHvJPqZc6Kq5+ET65vV4VPpbuA==",
   "success": true,
   "projectFilePath": "D:\\programing\\prac\\real prac\\Code\\khayatibanarges\\ShopManegement.Application\\ShopManagement.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Msi\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Msi\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.4\\microsoft.aspnetcore.http.features.5.0.4.nupkg.sha512",
+    "C:\\Users\\Msi\\.nuget\\packages\\microsoft.aspnetcore.mvc.abstractions\\2.2.0\\microsoft.aspnetcore.mvc.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Msi\\.nuget\\packages\\microsoft.aspnetcore.routing.abstractions\\2.2.0\\microsoft.aspnetcore.routing.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Msi\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.2\\microsoft.entityframeworkcore.5.0.2.nupkg.sha512",
     "C:\\Users\\Msi\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.2\\microsoft.entityframeworkcore.abstractions.5.0.2.nupkg.sha512",
     "C:\\Users\\Msi\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.2\\microsoft.entityframeworkcore.analyzers.5.0.2.nupkg.sha512",
@@ -15,9 +19,13 @@
     "C:\\Users\\Msi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Msi\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
     "C:\\Users\\Msi\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Msi\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\Msi\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\Msi\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
-    "C:\\Users\\Msi\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
+    "C:\\Users\\Msi\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
+    "C:\\Users\\Msi\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

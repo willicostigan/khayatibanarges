@@ -38,3 +38,43 @@ D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\b
 D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
 D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Domain.pdb
 D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Configuration.deps.json
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Configuration.runtimeconfig.json
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Configuration.runtimeconfig.dev.json
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Configuration.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\ref\ShopManagement.Configuration.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Configuration.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\01_KhayatibanargesQuery.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\0_Framework.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Application.Contract.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Domain.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Application.Contract.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Domain.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Application.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Domain.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\01_KhayatibanargesQuery.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Domain.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Application.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\0_Framework.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Application.Contract.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Domain.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Domain.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.csprojAssemblyReference.cache
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.AssemblyInfoInputs.cache
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.AssemblyInfo.cs
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.csproj.CopyComplete
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\obj\Debug\net5.0\ref\ShopManagement.Configuration.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.genruntimeconfig.cache

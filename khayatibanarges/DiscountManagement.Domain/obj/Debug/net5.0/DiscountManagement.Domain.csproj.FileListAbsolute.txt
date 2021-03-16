@@ -17,3 +17,22 @@ D:\programing\prac\real prac\Code\khayatibanarges\DiscountManagement.Domain\obj\
 D:\programing\prac\real prac\Code\khayatibanarges\DiscountManagement.Domain\obj\Debug\net5.0\DiscountManagement.Domain.pdb
 D:\programing\prac\real prac\Code\khayatibanarges\DiscountManagement.Domain\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
 D:\programing\prac\real prac\Code\khayatibanarges\DiscountManagement.Domain\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Domain\bin\Debug\net5.0\DiscountManagement.Domain.deps.json
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Domain\bin\Debug\net5.0\DiscountManagement.Domain.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Domain\bin\Debug\net5.0\ref\DiscountManagement.Domain.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Domain\bin\Debug\net5.0\DiscountManagement.Domain.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Domain\bin\Debug\net5.0\0_Framework.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Domain\bin\Debug\net5.0\DiscountManagement.Application.Contract.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Domain\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Domain\bin\Debug\net5.0\0_Framework.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Domain\bin\Debug\net5.0\DiscountManagement.Application.Contract.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Domain\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Domain\obj\Debug\net5.0\DiscountManagement.Domain.csprojAssemblyReference.cache
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Domain\obj\Debug\net5.0\DiscountManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Domain\obj\Debug\net5.0\DiscountManagement.Domain.AssemblyInfoInputs.cache
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Domain\obj\Debug\net5.0\DiscountManagement.Domain.AssemblyInfo.cs
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Domain\obj\Debug\net5.0\DiscountManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Domain\obj\Debug\net5.0\DiscountManagement.Domain.csproj.CopyComplete
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Domain\obj\Debug\net5.0\DiscountManagement.Domain.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Domain\obj\Debug\net5.0\ref\DiscountManagement.Domain.dll
+C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\DiscountManagement.Domain\obj\Debug\net5.0\DiscountManagement.Domain.pdb

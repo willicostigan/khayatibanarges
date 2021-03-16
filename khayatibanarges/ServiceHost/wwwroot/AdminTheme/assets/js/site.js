@@ -184,9 +184,11 @@ function handleAjaxCall(method, url, data) {
     }
 }
 
-jQuery.validator.addMethod("maxFileSize", function (value, element, params) {
+
+jQuery.validator.addMethod("maxFileSize",
+    function (value, element, params) {
         var size = element.files[0].size;
-        var maxSize = 3 * 1024 * 1024;
+        var maxSize = 2 * 1024 * 1024;
         if (size > maxSize)
             return false;
         else {
