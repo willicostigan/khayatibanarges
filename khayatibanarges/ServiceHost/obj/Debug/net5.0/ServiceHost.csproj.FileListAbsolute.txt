@@ -444,3 +444,16 @@ C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ServiceHost\
 C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ServiceHost\obj\Debug\net5.0\ref\ServiceHost.dll
 C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ServiceHost\obj\Debug\net5.0\ServiceHost.pdb
 C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ServiceHost\obj\Debug\net5.0\ServiceHost.genruntimeconfig.cache
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\bin\Debug\net5.0\BlogManagement.Application.Contract.dll
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\bin\Debug\net5.0\BlogManagement.Application.dll
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\bin\Debug\net5.0\BlogManagement.Domain.dll
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\bin\Debug\net5.0\BlogManagement.Infrastructure.Configuration.dll
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.dll
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\bin\Debug\net5.0\BlogManagement.Infrastructure.Configuration.pdb
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\bin\Debug\net5.0\BlogManagement.Application.pdb
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\bin\Debug\net5.0\BlogManagement.Application.Contract.pdb
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\bin\Debug\net5.0\BlogManagement.Domain.pdb
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.pdb
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\ArticleCategories\Create.cshtml.g.cs
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\ArticleCategories\Edit.cshtml.g.cs
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\ArticleCategories\Index.cshtml.g.cs
