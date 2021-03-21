@@ -77,9 +77,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogManagement.Application"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BM.Infrastructure", "BM.Infrastructure", "{9A002C41-A4BF-49A9-AA78-45F9316E9F27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogManagement.Infrastructure.EFCore", "BlogManagement.Infrastructure.EFCore\BlogManagement.Infrastructure.EFCore.csproj", "{93A2BE10-9D81-4C8B-9DA8-AA1DE30FB53D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogManagement.Infrastructure.EFCore", "BlogManagement.Infrastructure.EFCore\BlogManagement.Infrastructure.EFCore.csproj", "{93A2BE10-9D81-4C8B-9DA8-AA1DE30FB53D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogManagement.Infrastructure.Configuration", "BlogManagement.Infrastructure.Configuration\BlogManagement.Infrastructure.Configuration.csproj", "{99BE8637-90FD-4431-8411-A185816F3236}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogManagement.Infrastructure.Configuration", "BlogManagement.Infrastructure.Configuration\BlogManagement.Infrastructure.Configuration.csproj", "{99BE8637-90FD-4431-8411-A185816F3236}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
