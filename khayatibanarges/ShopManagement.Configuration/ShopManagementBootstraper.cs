@@ -5,12 +5,10 @@ using _01_KhayatibanargesQuery.Query;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using ShopManagement.Application;
-using ShopManagement.Application.Contracts.Comment;
 using ShopManagement.Application.Contracts.Product;
 using ShopManagement.Application.Contracts.ProductCategory;
 using ShopManagement.Application.Contracts.ProductPicture;
 using ShopManagement.Application.Contracts.Slide;
-using ShopManagement.Domain.CommentAgg;
 using ShopManagement.Domain.ProductAgg;
 using ShopManagement.Domain.ProductCategoryAgg;
 using ShopManagement.Domain.ProductPictureAgg;
@@ -35,10 +33,7 @@ namespace ShopManagement.Configuration
 
             Services.AddTransient<ISlideApplication, SlideApplication>();
             Services.AddTransient<ISlideRepository, SlideRepository>();
-
-            Services.AddTransient<ICommentRepository, CommentRepository>();
-            Services.AddTransient<ICommentApplication, CommentApplication>();
-
+            
             Services.AddTransient<ISlideQuery, SlideQuery>();
             Services.AddTransient<IProductCategoryQuery, ProductCategoryQuery>();
             Services.AddTransient<IProductQuery, ProductQuery>();

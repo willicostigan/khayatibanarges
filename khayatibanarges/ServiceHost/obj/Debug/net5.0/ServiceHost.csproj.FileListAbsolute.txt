@@ -217,7 +217,6 @@ D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\obj\Debug\net5.0\R
 D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Footer\Default.cshtml.g.cs
 D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Menu\Default.cshtml.g.cs
 D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\obj\Debug\net5.0\Razor\Pages\Product.cshtml.g.cs
-D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Comments\Index.cshtml.g.cs
 D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
 D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\bin\Debug\net5.0\System.IO.Pipelines.dll
 D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\obj\Debug\net5.0\ServiceHost.MvcApplicationPartsAssemblyInfo.cs
@@ -460,3 +459,17 @@ D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\obj\Debug\net5.0\R
 D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\Articles\Create.cshtml.g.cs
 D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\Articles\Edit.cshtml.g.cs
 D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\Articles\Index.cshtml.g.cs
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\obj\Debug\net5.0\Razor\Pages\Article.cshtml.g.cs
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\LatestArticles\Default.cshtml.g.cs
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\obj\Debug\net5.0\Razor\Pages\ArticleCategory.cshtml.g.cs
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Comments\Index.cshtml.g.cs
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\bin\Debug\net5.0\CommentManagement.Application.Contracts.dll
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\bin\Debug\net5.0\CommentManagement.Application.dll
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\bin\Debug\net5.0\CommentManagement.Domain.dll
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\bin\Debug\net5.0\CommentManagement.Infrastructure.Configuration.dll
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\bin\Debug\net5.0\CommentManagement.Infrastructure.EFCore.dll
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\bin\Debug\net5.0\CommentManagement.Application.Contracts.pdb
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\bin\Debug\net5.0\CommentManagement.Infrastructure.Configuration.pdb
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\bin\Debug\net5.0\CommentManagement.Application.pdb
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\bin\Debug\net5.0\CommentManagement.Domain.pdb
+D:\programing\prac\real prac\Code\khayatibanarges\ServiceHost\bin\Debug\net5.0\CommentManagement.Infrastructure.EFCore.pdb

@@ -78,3 +78,15 @@ C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManageme
 C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\obj\Debug\net5.0\ref\ShopManagement.Configuration.dll
 C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.pdb
 C:\Program Files (x86)\MyProgramming\real prac\Code\khayatibanarges\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.genruntimeconfig.cache
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\BlogManagement.Application.Contract.dll
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\BlogManagement.Domain.dll
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.dll
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\BlogManagement.Application.Contract.pdb
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\BlogManagement.Domain.pdb
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.pdb
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\CommentManagement.Application.Contracts.dll
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\CommentManagement.Domain.dll
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\CommentManagement.Infrastructure.EFCore.dll
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\CommentManagement.Application.Contracts.pdb
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\CommentManagement.Domain.pdb
+D:\programing\prac\real prac\Code\khayatibanarges\ShopManagement.Configuration\bin\Debug\net5.0\CommentManagement.Infrastructure.EFCore.pdb

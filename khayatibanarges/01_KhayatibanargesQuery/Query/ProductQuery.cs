@@ -2,11 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using _0_Framework.Application;
+using _01_KhayatibanargesQuery.Contracts.Comment;
 using _01_KhayatibanargesQuery.Contracts.Product;
+using CommentManagement.Infrastructure.EFCore;
 using DiscountManagement.Infrastructure.EFCore;
 using InventoryManagement.Infrastructure.EFCore;
 using Microsoft.EntityFrameworkCore;
-using ShopManagement.Domain.CommentAgg;
 using ShopManagement.Domain.ProductPictureAgg;
 using ShopManagement.Infrastructure.EFCore;
 
@@ -17,16 +18,18 @@ namespace _01_KhayatibanargesQuery.Query
         private readonly ShopContext _context;
         private readonly InventoryContext _inventoryContext;
         private readonly DiscountContext _discountContext;
+        private readonly CommentContext _commentContext;
 
         public ProductQuery(ShopContext context, InventoryContext inventoryContext,
-            DiscountContext discountContext)
+            DiscountContext discountContext, CommentContext commentContext)
         {
             _context = context;
             _inventoryContext = inventoryContext;
             _discountContext = discountContext;
+            _commentContext = commentContext;
         }
 
-        public ProductQueryModel GetDetails(string slug)
+        public ProductQueryModel GetProductDetails(string slug)
         {
             var inventory = _inventoryContext.Inventory.Select(x => new {x.ProductId, x.UnitPrice, x.InStock}).ToList();
             var discounts = _discountContext.CustomerDiscounts
@@ -34,8 +37,7 @@ namespace _01_KhayatibanargesQuery.Query
                 .Select(x => new {x.DiscountRate, x.ProductId, x.EndDate}).ToList();
             var product = _context.Products
                 .Include(x => x.Category)
-                .Include(x=>x.Comments)
-                .Include(x=>x.ProductPicture)
+                .Include(x => x.ProductPicture)
                 .Select(product => new ProductQueryModel
                 {
                     Id = product.Id,
@@ -51,7 +53,6 @@ namespace _01_KhayatibanargesQuery.Query
                     MetaDescription = product.MetaDescription,
                     Keywords = product.Keywords,
                     Description = product.Description,
-                    Comments = MapComments(product.Comments),
                     Pictures = MapProductPicture(product.ProductPicture)
                 }).AsNoTracking().FirstOrDefault(x => x.Slug == slug);
 
@@ -77,21 +78,20 @@ namespace _01_KhayatibanargesQuery.Query
                 }
             }
 
-
-            return product;
-        }
-
-        private static List<CommentQueryModel> MapComments(List<Comment> comments)
-        {
-            return comments
+            product.Comments = _commentContext.Comments
                 .Where(x => !x.IsCanceled)
                 .Where(x => x.IsConfirmed)
-                .Select(x => new CommentQueryModel
+                .Where(x => x.Type == CommentType.Product)
+                .Where(x => x.OwnerRecordId == product.Id).Select(x => new CommentQueryModel
                 {
                     Id = x.Id,
                     Name = x.Name,
-                    Message = x.Message
-                }).OrderByDescending(x=>x.Id).ToList();
+                    Message = x.Message,
+                    CreationDate = x.CreationDate.ToFarsi()
+                }).OrderByDescending(x => x.Id).ToList();
+
+
+            return product;
         }
 
         private static List<ProductPictureQueryModel> MapProductPicture(List<ProductPicture> pictures)
@@ -105,6 +105,7 @@ namespace _01_KhayatibanargesQuery.Query
                 ProductId = x.ProductId
             }).Where(x => !x.IsRemoved).ToList();
         }
+
 
         public List<ProductQueryModel> GetLatestArrivals()
         {
