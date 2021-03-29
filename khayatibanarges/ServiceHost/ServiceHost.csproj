@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\01_KhayatibanargesQuery\01_KhayatibanargesQuery.csproj" />
+    <ProjectReference Include="..\AccountManagement.Configuration\AccountManagement.Configuration.csproj" />
     <ProjectReference Include="..\BlogManagement.Infrastructure.Configuration\BlogManagement.Infrastructure.Configuration.csproj" />
     <ProjectReference Include="..\CommentManagement.Application.Contracts\CommentManagement.Application.Contracts.csproj" />
     <ProjectReference Include="..\CommentManagement.Infrastructure.Configuration\CommentManagement.Infrastructure.Configuration.csproj" />

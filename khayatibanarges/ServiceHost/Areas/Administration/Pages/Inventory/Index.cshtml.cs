@@ -3,11 +3,14 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using ShopManagement.Application.Contracts.Product;
 using System.Collections.Generic;
+using _0_Framework.Infrastructure;
+using AccountManagement.Configuration;
 using InventoryManagement.Application.Contract.Inventory;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ServiceHost.Areas.Administration.Pages.Inventory
 {
-    //[Authorize(Roles = Roles.Administator)]
+    [Authorize(Roles = Roles.Administrator)]
     public class IndexModel : PageModel
     {
         [TempData] public string Message { get; set; }
