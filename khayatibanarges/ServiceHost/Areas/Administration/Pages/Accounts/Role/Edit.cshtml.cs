@@ -14,6 +14,7 @@ namespace ServiceHost.Areas.Administration.Pages.Accounts.Role
         public List<SelectListItem> Permissions = new List<SelectListItem>();
         private readonly IRoleApplication _roleApplication;
         private readonly IEnumerable<IPermissionExposer> _exposers;
+
         public EditModel(IRoleApplication roleApplication, IEnumerable<IPermissionExposer> exposers)
         {
             _roleApplication = roleApplication;
@@ -23,23 +24,19 @@ namespace ServiceHost.Areas.Administration.Pages.Accounts.Role
         public void OnGet(long id)
         {
             Command = _roleApplication.GetDetails(id);
-            var permissions = new List<PermissionDto>();
             foreach (var exposer in _exposers)
             {
                 var exposedPermissions = exposer.Expose();
-                foreach (var (key , value) in exposedPermissions)
+                foreach (var (key, value) in exposedPermissions)
                 {
-                    permissions.AddRange(value);
-                    var group = new SelectListGroup
-                    {
-                        Name = key
-                    };
+                    var group = new SelectListGroup { Name = key };
                     foreach (var permission in value)
                     {
                         var item = new SelectListItem(permission.Name, permission.Code.ToString())
                         {
                             Group = group
                         };
+
                         if (Command.MappedPermissions.Any(x => x.Code == permission.Code))
                             item.Selected = true;
 

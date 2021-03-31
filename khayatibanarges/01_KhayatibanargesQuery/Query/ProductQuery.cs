@@ -8,6 +8,7 @@ using CommentManagement.Infrastructure.EFCore;
 using DiscountManagement.Infrastructure.EFCore;
 using InventoryManagement.Infrastructure.EFCore;
 using Microsoft.EntityFrameworkCore;
+using ShopManagement.Application.Contracts.Order;
 using ShopManagement.Domain.ProductPictureAgg;
 using ShopManagement.Infrastructure.EFCore;
 
@@ -38,22 +39,22 @@ namespace _01_KhayatibanargesQuery.Query
             var product = _context.Products
                 .Include(x => x.Category)
                 .Include(x => x.ProductPicture)
-                .Select(product => new ProductQueryModel
+                .Select(x => new ProductQueryModel
                 {
-                    Id = product.Id,
-                    Category = product.Category.Name,
-                    Name = product.Name,
-                    Picture = product.Picture,
-                    PictureTitle = product.PictureTitle,
-                    PictureAlt = product.PictureAlt,
-                    Slug = product.Slug,
-                    CategorySlug = product.Category.Slug,
-                    Code = product.Code,
-                    ShortDescription = product.ShortDescription,
-                    MetaDescription = product.MetaDescription,
-                    Keywords = product.Keywords,
-                    Description = product.Description,
-                    Pictures = MapProductPicture(product.ProductPicture)
+                    Id = x.Id,
+                    Category = x.Category.Name,
+                    Name = x.Name,
+                    Picture = x.Picture,
+                    PictureTitle = x.PictureTitle,
+                    PictureAlt = x.PictureAlt,
+                    Slug = x.Slug,
+                    CategorySlug = x.Category.Slug,
+                    Code = x.Code,
+                    ShortDescription = x.ShortDescription,
+                    MetaDescription = x.MetaDescription,
+                    Keywords = x.Keywords,
+                    Description = x.Description,
+                    Pictures = MapProductPicture(x.ProductPicture)
                 }).AsNoTracking().FirstOrDefault(x => x.Slug == slug);
 
             if (product == null)
@@ -65,11 +66,11 @@ namespace _01_KhayatibanargesQuery.Query
                 product.IsInStock = productInventory.InStock;
                 var price = productInventory.UnitPrice;
                 product.Price = price.ToMoney();
-
+                product.DoublePrice = price;
                 var discount = discounts.FirstOrDefault(x => x.ProductId == product.Id);
                 if (discount != null)
                 {
-                    int discountRate = discount.DiscountRate;
+                    var discountRate = discount.DiscountRate;
                     product.DiscountRate = discountRate;
                     product.DiscountExpireDate = discount.EndDate.ToDiscountFormat();
                     product.HasDiscount = discountRate > 0;
@@ -135,14 +136,12 @@ namespace _01_KhayatibanargesQuery.Query
                     product.Price = price.ToMoney();
 
                     var discount = discounts.FirstOrDefault(x => x.ProductId == product.Id);
-                    if (discount != null)
-                    {
-                        int discountRate = discount.DiscountRate;
-                        product.DiscountRate = discountRate;
-                        product.HasDiscount = discountRate > 0;
-                        var discountAmount = Math.Round((price * discountRate) / 100);
-                        product.PriceWithDiscount = (price - discountAmount).ToMoney();
-                    }
+                    if (discount == null) continue;
+                    var discountRate = discount.DiscountRate;
+                    product.DiscountRate = discountRate;
+                    product.HasDiscount = discountRate > 0;
+                    var discountAmount = Math.Round((price * discountRate) / 100);
+                    product.PriceWithDiscount = (price - discountAmount).ToMoney();
                 }
             }
 
@@ -184,19 +183,31 @@ namespace _01_KhayatibanargesQuery.Query
                     product.Price = price.ToMoney();
 
                     var discount = discounts.FirstOrDefault(x => x.ProductId == product.Id);
-                    if (discount != null)
-                    {
-                        int discountRate = discount.DiscountRate;
-                        product.DiscountRate = discountRate;
-                        product.DiscountExpireDate = discount.EndDate.ToDiscountFormat();
-                        product.HasDiscount = discountRate > 0;
-                        var discountAmount = Math.Round((price * discountRate) / 100);
-                        product.PriceWithDiscount = (price - discountAmount).ToMoney();
-                    }
+                    if (discount == null) continue;
+                    var discountRate = discount.DiscountRate;
+                    product.DiscountRate = discountRate;
+                    product.DiscountExpireDate = discount.EndDate.ToDiscountFormat();
+                    product.HasDiscount = discountRate > 0;
+                    var discountAmount = Math.Round((price * discountRate) / 100);
+                    product.PriceWithDiscount = (price - discountAmount).ToMoney();
                 }
             }
 
             return products;
+        }
+
+        public List<CartItem> CheckInventoryStatus(List<CartItem> cartItems)
+        {
+            var inventory = _inventoryContext.Inventory.ToList();
+
+            foreach (var cartItem in cartItems.Where(cartItem =>
+                inventory.Any(x => x.ProductId == cartItem.Id && x.InStock)))
+            {
+                var itemInventory = inventory.Find(x => x.ProductId == cartItem.Id);
+                cartItem.IsInStock = itemInventory.CalculateCurrentCount() >= cartItem.Count;
+            }
+
+            return cartItems;
         }
     }
 }

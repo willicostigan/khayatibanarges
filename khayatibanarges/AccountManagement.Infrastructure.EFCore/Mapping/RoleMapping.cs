@@ -13,12 +13,12 @@ namespace AccountManagement.Infrastructure.EFCore.Mapping
 
             builder.Property(x => x.Name).HasMaxLength(100).IsRequired();
 
-            builder.OwnsMany(x => x.Permissions, NavigationBuilder =>
+            builder.OwnsMany(x => x.Permissions, navigationBuilder =>
             {
-                NavigationBuilder.ToTable("RolePermissions");
-                NavigationBuilder.HasKey(x => x.Id);
-                NavigationBuilder.Ignore(x => x.Name);
-                NavigationBuilder.WithOwner(x => x.Role);
+                navigationBuilder.ToTable("RolePermissions");
+                navigationBuilder .HasKey(x => x.Id);
+                navigationBuilder .Ignore(x => x.Name);
+                navigationBuilder .WithOwner(x => x.Role);
             });
         }
     }

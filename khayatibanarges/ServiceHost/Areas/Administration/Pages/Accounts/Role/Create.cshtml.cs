@@ -17,6 +17,7 @@ namespace ServiceHost.Areas.Administration.Pages.Accounts.Role
         public void OnGet()
         {
         }
+
         public IActionResult OnPost(CreateRole command)
         {
             var result = _roleApplication.Create(command);

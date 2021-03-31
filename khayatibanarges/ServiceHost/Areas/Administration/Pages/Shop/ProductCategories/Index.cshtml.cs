@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using ShopManagement.Application.Contracts.ProductCategory;
 using System.Collections.Generic;
 using _0_Framework.Infrastructure;
+using ShopManagement.Configuration.ShopPermissions;
 
 
 namespace ServiceHost.Areas.Administration.Pages.Shop.ProductCategories
@@ -21,6 +22,7 @@ namespace ServiceHost.Areas.Administration.Pages.Shop.ProductCategories
             _productCategoryApplication = productCategoryApplication;
         }
 
+        [NeedsPermission(ShopPermissions.ListProductCategories)]
         public void OnGet(ProductCategorySearchModel searchModel)
         {
             ProductCategories = _productCategoryApplication.Search(searchModel);
@@ -31,6 +33,7 @@ namespace ServiceHost.Areas.Administration.Pages.Shop.ProductCategories
             return Partial("./Create", new CreateProductCategory());
         }
 
+        [NeedsPermission(ShopPermissions.CreateProductCategory)]
         public JsonResult OnPostCreate(CreateProductCategory command)
         {
             var result = _productCategoryApplication.Create(command);
@@ -43,6 +46,7 @@ namespace ServiceHost.Areas.Administration.Pages.Shop.ProductCategories
             return Partial("Edit", productCategory);
         }
 
+        [NeedsPermission(ShopPermissions.EditProductCategory)]
         public JsonResult OnPostEdit(EditProductCategory command)
         {
             if (ModelState.IsValid)

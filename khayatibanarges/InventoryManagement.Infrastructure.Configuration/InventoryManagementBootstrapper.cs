@@ -2,7 +2,7 @@
 using InventoryManagement.Application;
 using InventoryManagement.Application.Contract.Inventory;
 using InventoryManagement.Domain.InventoryAgg;
-using InventoryManagement.Infrastructure.Configuration.Permissions;
+using InventoryManagement.Infrastructure.Configuration.InventoryPermissions;
 using InventoryManagement.Infrastructure.EFCore;
 using InventoryManagement.Infrastructure.EFCore.Repository;
 using Microsoft.EntityFrameworkCore;
